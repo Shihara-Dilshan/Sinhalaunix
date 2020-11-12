@@ -92,7 +92,8 @@
         "rpm",
         "AppImage"
       ],
-      "category": "Development"
+      "category": "Development",
+      "icon": "/assets/icons/win/icon.ico"
     },
     "directories": {
       "buildResources": "resources",
