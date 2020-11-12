@@ -1,0 +1,82 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    flex: 0.3;
+}
+
+.sidebar_header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-right: 1px solid lightgray;
+}
+
+.sidebar_headerRight {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 10vw;
+}
+
+.sidebar_headerRight > .MuiSvgIcon-root {
+    margin-right: 2vw;
+    font-size: 24px !important;
+}
+
+.sidebar__search {
+    height: 39px;
+    background-color: #f6f6f6;
+    align-items: center;
+    padding: 10px;
+    display: flex;
+}
+
+.sidebar__searchContainer {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+    height: 35px;
+    border-radius: 0px;
+}
+
+.sidebar__searchContainer > .MuiSvgIcon-root {
+    color: gray;
+    padding: 10px;
+}
+
+.sidebar__searchContainer > input {
+    border: none;
+    outline-width: 0 !important;
+    margin-left: 10px;
+    width: 100%;
+}
+
+.sidebar__chat {
+    background-color: white;
+}
+
+.sidebarChat {
+    display: flex;
+    justify-content: space-arround;
+    margin-top: 3px;
+    margin-left: 0px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.sidebarChat:hover {
+    background-color: #e6e6e6;
+    border-radius: 10px;
+    cursor: pointer; 
+}
+
+.sidebarChat__lastMsg {
+    font-size: 13px;
+}
+
+.sidebarChat__info {
+    margin-left:20px;
+    margin-top:2px;
+}
+
