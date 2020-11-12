@@ -26,20 +26,19 @@ class Sidebar extends Component {
       const inputField =  document.getElementById('inputField');
       const inputValue = inputField.value;
       
-      if(!inputValue || inputValue.trim().length === 0 || inputValue.trim().length === 1){
+      if(!inputValue || inputValue.trim().length === 0 ){
           return;
       }else{
           
           const results = this.state.english.filter( word => word.word.includes(inputValue));
           const finalResult = results.sort( (a,b) => {
-              if(a.word.indexOf(inputValue) < b.word.indexOf(inputValue)){
+              if(a.word.length <= b.word.length){
                   return -1;
               }else{
                   return 1;
               }
           });
           this.setState({results: finalResult});
-          console.log(finalResult)
       }
 
 
@@ -61,13 +60,13 @@ class Sidebar extends Component {
       const inputField =  document.getElementById('inputField');
       const inputValue = inputField.value;
       
-      if(!inputValue || inputValue.trim().length === 0 || inputValue.trim().length === 1 ){
+      if(!inputValue || inputValue.trim().length === 0 ){
           return;
       }else{
           
           const results = this.state.english.filter( word => word.word.includes(inputValue));
           const finalResult = results.sort( (a,b) => {
-              if(a.word.indexOf(inputValue) < b.word.indexOf(inputValue)){
+              if(a.word.length <= b.word.length){
                   return -1;
               }else{
                   return 1;
