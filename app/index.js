@@ -9,6 +9,9 @@ const store = configureStore();
 
 const AppContainer = process.env.PLAIN_HMR ? Fragment : ReactHotAppContainer;
 
+window.localStorage.setItem('currentDef', "සෙවුම් ප්‍රතිපල මෙහි දිස්වනු ඇත");
+window.localStorage.setItem('currentValue', "");
+
 render(
   <AppContainer>
     <Root store={store} history={history} />
