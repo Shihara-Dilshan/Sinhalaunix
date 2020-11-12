@@ -1,6 +1,6 @@
 {
-  "name": "electron-react-boilerplate",
-  "productName": "ElectronReact",
+  "name": "sinhalaunix",
+  "productName": "sinhalaunix",
   "version": "0.18.0",
   "description": "Electron application boilerplate based on React, React Router, Webpack, React Hot Loader for rapid application development",
   "scripts": {
@@ -56,8 +56,8 @@
     ]
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.develar.ElectronReact",
+    "productName": "sinhalaunix",
+    "appId": "org.noobstack.sinhalaunix",
     "files": [
       "dist/",
       "node_modules/",
@@ -92,8 +92,7 @@
         "rpm",
         "AppImage"
       ],
-      "category": "Development",
-      "icon": "/assets/icons/win/icon.ico"
+      "category": "Development"
     },
     "directories": {
       "buildResources": "resources",

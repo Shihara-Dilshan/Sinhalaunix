@@ -12,6 +12,11 @@ type Props = {};
 
 export default class Home extends Component<Props> {
   props: Props;
+  
+   componentDidMount(){
+       window.localStorage.setItem('currentDef', "සෙවුම් ප්‍රතිපල මෙහි දිස්වනු ඇත");
+       window.localStorage.setItem('currentValue', "");
+   }
 
   render() {
     return (
