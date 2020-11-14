@@ -88,9 +88,7 @@
     },
     "linux": {
       "target": [
-        "deb",
-        "rpm",
-        "AppImage"
+        "snap"
       ],
       "category": "Development"
     },
