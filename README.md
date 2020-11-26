@@ -1,4 +1,4 @@
-සිංහල-English Dictionary
+## සිංහල-English Dictionary
 <br />
 
 <div align="center">
