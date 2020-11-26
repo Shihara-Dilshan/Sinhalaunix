@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Electron Boilerplate Demo](https://im7.ezgif.com/tmp/ezgif-7-8f311fdaf875.gif)
+![Electron Boilerplate Demo](https://raw.githubusercontent.com/Shihara-Dilshan/Sinhala-English-Dictionary/main/about.gif?token=AOYUPONBHRNTYRKF6EHEHBC7X35D2)
 
 </div>
 
