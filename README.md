@@ -1,3 +1,6 @@
+සිංහල-English Dictionary
+<br />
+
 <div align="center">
 
 ![Electron Boilerplate Demo](https://raw.githubusercontent.com/Shihara-Dilshan/Sinhala-English-Dictionary/main/about.gif?token=AOYUPOJM23KUY6QE5MY6WX27X34I6)
