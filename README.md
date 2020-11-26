@@ -1,6 +1,6 @@
 <div align="center">
 
-![Electron Boilerplate Demo](https://cloud.githubusercontent.com/assets/3382565/10557547/b1f07a4e-74e3-11e5-8d27-79ab6947d429.gif)
+![Electron Boilerplate Demo](https://raw.githubusercontent.com/Shihara-Dilshan/Sinhala-English-Dictionary/main/about.gif?token=AOYUPOJM23KUY6QE5MY6WX27X34I6)
 
 </div>
 
