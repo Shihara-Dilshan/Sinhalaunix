@@ -50,4 +50,4 @@ See our [docs and guides here](https://electron-react-boilerplate.js.org/docs/in
 
 ## License
 
-MIT © 
+MIT © sinhalaunix 2020
