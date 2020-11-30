@@ -1,5 +1,5 @@
 ## සිංහල-English Dictionary
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sinhalaunix.visitor-badge)
+
 
 <div align="center">
 
