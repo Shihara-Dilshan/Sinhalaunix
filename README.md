@@ -1,7 +1,5 @@
 ## සිංහල-English Dictionary
-<br />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SouravJohar.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sinhalaunix.visitor-badge)
 
 <div align="center">
 
